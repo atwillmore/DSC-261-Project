@@ -13,3 +13,9 @@ pip install -r requirements.txt
 
 ## Running the Notebooks
 Simply run the cells in sequential order.
+
+## Running the streamlit demo
+Run the following command to open the app in your browser:
+```
+streamlit run st_demo_updated.py
+```
