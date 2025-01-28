@@ -1,5 +1,7 @@
 # DSC-261-Project
 
+Our project focuses on addressing the challenge of distribution shifts in graph data, particularly in graph classification tasks. By leveraging invariant graph representations and causal inference techniques, we develop robust models capable of extrapolating across varying data distributions. This approach enhances generalization, improves explainability, and mitigates biases in graph neural networks.
+
 ## Setup
 
 Ensure your environment is set up to run Python (ideally 3.9+) and Jupyter Notebooks. For installation instructions, please see this page: https://jupyter.org/install.
